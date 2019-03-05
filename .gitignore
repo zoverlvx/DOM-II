@@ -1,1 +1,4 @@
 .DS_Store
+.pids
+compiler.log
+server.log
